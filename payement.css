@@ -1,0 +1,12 @@
+body{
+    background-color:#FF8C00;
+    padding: 150px 150px;
+    margin: auto;
+    text-align: center;
+}
+.container{
+    border: 30px solid beige;
+}
+.first-row{
+    display: grid;
+}
